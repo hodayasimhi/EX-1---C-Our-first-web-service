@@ -1,0 +1,16 @@
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.deps.json
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.runtimeconfig.json
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.runtimeconfig.dev.json
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.dll
+C:\Users\hoday\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.pdb
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.csprojAssemblyReference.cache
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.RazorAssemblyInfo.cache
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.RazorAssemblyInfo.cs
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.AssemblyInfoInputs.cache
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.AssemblyInfo.cs
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.RazorTargetAssemblyInfo.cache
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.dll
+C:\Users\hoday\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.pdb
